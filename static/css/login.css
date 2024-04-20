@@ -1,0 +1,10 @@
+.cardbody{
+    border-radius: 20rem;
+    width:350px;
+}
+.loginform{
+font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+}

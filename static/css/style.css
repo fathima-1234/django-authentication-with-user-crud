@@ -1,0 +1,15 @@
+li:hover{
+    background-color:green;
+    border-radius: 15px;
+
+}
+.fg{
+    background-color: aqua;
+}
+ .navbar-collapse {
+    font-size: 20px;
+    font-family: 'Abel', sans-serif;
+    font-style: normal;
+    font-weight: 100;
+
+ } 
